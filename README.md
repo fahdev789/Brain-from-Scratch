@@ -20,7 +20,7 @@ This repository demonstrates how neural networks work at a fundamental level by 
 
 Below is a visualization of a simple neural network computation, including forward and backward passes with gradients:
 
-![Neural Network Data Flow]()
+![Neural Network Data Flow](building-up-nn-scratch.png)
 
 ## Getting Started
 
