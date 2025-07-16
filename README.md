@@ -1,6 +1,3 @@
-
-![NNs behind the Wall](NNs-behind-the-walls.png)
-
 # Brain-from-Scratch
 
 Build Neural Networks from Scratch using Mathematical Operators—no external libraries. This project implements neural networks based purely on backpropagation algorithms and manual mathematical operations.
