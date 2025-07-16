@@ -50,6 +50,3 @@ Below is a visualization of a simple neural network computation, including forwa
 
 Pull requests and suggestions are welcome! Please open an issue to discuss your ideas.
 
-## License
-
-This project is licensed under the MIT License.
