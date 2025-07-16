@@ -35,6 +35,15 @@ Below is a visualization of a simple neural network computation, including forwa
     python main.py
     ```
 
+
+  2.1 **See the `tanh_e` function in `main.py` and apply it to find the value of `o` to see how different it is from the orignial `tanh` function from `Node` class**:
+
+     
+    o = n.tanh(); o._label = 'o'; o.grad = 1.0 # change this to below all other functionality is same until `n` value
+    
+    #o = tanh_e(n); o._label = 'o'; o.grad = 1.0
+     
+     
 3. **Explore and modify**:
     - Review the code and adjust parameters to see how learning changes.
     - All neural network operations are implemented manually for educational purposes.
